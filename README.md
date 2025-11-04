@@ -99,7 +99,7 @@ Executed directly in MySQL using `GROUP BY`, `JOIN`, `WINDOW FUNCTIONS`, and `CT
 1. **Clone this repository**
 
     ```bash
-    git clone https://github.com/Aadityavarier/data-cleaning-and-eda-project.git
+    git clone https://github.com/Aadityavarier/Data-Cleaning-and-EDA.git
     cd data-cleaning-and-eda-project
     ```
 
