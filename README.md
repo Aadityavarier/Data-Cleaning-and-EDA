@@ -100,7 +100,6 @@ Executed directly in MySQL using `GROUP BY`, `JOIN`, `WINDOW FUNCTIONS`, and `CT
 
     ```bash
     git clone https://github.com/Aadityavarier/Data-Cleaning-and-EDA.git
-    cd data-cleaning-and-eda-project
     ```
 
 2. **Convert Excel file to CSV for MySQL import (if needed)**
