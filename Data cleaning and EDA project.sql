@@ -1,3 +1,16 @@
+/* 
+Project: Data Cleaning and EDA on Global Layoffs (2020–2023) 
+Author: Aaditya V 
+Description: 
+- Cleans raw layoff dataset
+- Removes duplicates, trims whitespace 
+- Standardizes dates and text formats 
+- Performs EDA for trends by month, year, sector, and country 
+
+License: MIT (see LICENSE file) 
+*/
+
+
 select *
 from layoffs;
 
