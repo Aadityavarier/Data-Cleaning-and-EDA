@@ -2,8 +2,8 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Made with MySQL](https://img.shields.io/badge/Made%20with-MySQL-blue.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/Aadityavarier/data-cleaning-and-eda-project)
-![GitHub stars](https://img.shields.io/github/stars/Aadityavarier/data-cleaning-and-eda-project?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Aadityavarier/Data-Cleaning-and-EDA)
+![GitHub stars](https://img.shields.io/github/stars/Aadityavarier/Data-Cleaning-and-EDA?style=social)
 
 ---
 
@@ -16,7 +16,6 @@
 - [Usage](#usage)
 - [Example Queries](#example-queries)
 - [Repository Structure](#repository-structure)
-- [Sample Visualizations](#sample-visualizations)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
