@@ -1,4 +1,4 @@
-# 🧹 Data Cleaning & Exploratory Data Analysis (EDA) on Global Layoffs Dataset
+﻿# 🧹 Data Cleaning & Exploratory Data Analysis (EDA) on Global Layoffs Dataset
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Made with MySQL](https://img.shields.io/badge/Made%20with-MySQL-blue.svg)
@@ -16,6 +16,7 @@
 - [Usage](#usage)
 - [Example Queries](#example-queries)
 - [Repository Structure](#repository-structure)
+- [Sample Visualizations](#sample-visualizations)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -100,6 +101,7 @@ Executed directly in MySQL using `GROUP BY`, `JOIN`, `WINDOW FUNCTIONS`, and `CT
 
     ```bash
     git clone https://github.com/Aadityavarier/Data-Cleaning-and-EDA.git
+    cd data-cleaning-and-eda-project
     ```
 
 2. **Convert Excel file to CSV for MySQL import (if needed)**
@@ -121,7 +123,7 @@ Executed directly in MySQL using `GROUP BY`, `JOIN`, `WINDOW FUNCTIONS`, and `CT
     mysql -u root -p < "data_cleaning_and_eda_project.sql"
     ```
 
-5. **Explore outputs and insights using SELECT statements or visualization tools.**
+5. **Explore outputs and insights using SELECT statements.**
 
 ---
 
@@ -158,11 +160,14 @@ ORDER BY month;
 
 ---
 
-## 🚀 Future Improvements
+## 📊 Visualizations
 
-* Add visualizations using Power BI or Tableau.
-* Automate loading & analysis with Python scripts.
-* Expand dataset for 2024–2025 trend study.
+> **Below: Chart generated from query outputs. **
+
+
+
+
+
 
 ---
 
@@ -189,3 +194,4 @@ B.E. in AI & Data Science (2nd Year) — Mumbai University
 - Email: aadityav1703@gmail.com  
 - LinkedIn: [aadityavarier](https://www.linkedin.com/in/aaditya-varier-91486b352/)
 - GitHub: [Aadityavarier](https://github.com/Aadityavarier)
+
