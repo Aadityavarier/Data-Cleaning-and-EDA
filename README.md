@@ -1,4 +1,4 @@
-﻿# 🧹 Data Cleaning & Exploratory Data Analysis (EDA) on Global Layoffs Dataset
+# 🧹 Data Cleaning & Exploratory Data Analysis (EDA) on Global Layoffs Dataset
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Made with MySQL](https://img.shields.io/badge/Made%20with-MySQL-blue.svg)
@@ -163,8 +163,13 @@ ORDER BY month;
 
 > **Below: Chart generated from query outputs. **
 
-![Yearly_Layoffs](Visuals/Yearly_layoffs.jpg)
 ![Countrywise_Layoffs](Visuals/Countrywise_layoffs.jpg)
+
+![Companywise_Layoffs](Visuals/Companywise_layoffs.jpg)
+
+![Yearly_Layoffs](Visuals/Yearly_layoffs.jpg)
+
+![Monthly_Layoffs](Visuals/Monthly_layoffs.jpg)
 
 **To see more go to ([Visuals](https://github.com/Aadityavarier/Data-Cleaning-and-EDA/tree/main/Visuals))
 
